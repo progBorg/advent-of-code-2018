@@ -1,6 +1,6 @@
 # Advent of Code solutions 2018
 
-My solutions for the Advent of Code project of 2018
+My solutions for the Advent of Code project of 2018, in C++11.
 
 Each solution, along with the necessary input values, is contained within its own directory under `/src/`.
 

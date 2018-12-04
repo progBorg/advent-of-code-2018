@@ -69,7 +69,7 @@ int main(int argc, char **argv)
 	}
 
 	// Print final sum to screen
-	cout << "The double frequency is: " << sum << endl;
+	cout << "The first double frequency is: " << sum << endl;
 
 	// Be nice and close the inputFile
 	inputFile.close();
